@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Camera API 2</string>
+    <!-- Dùng cho button chụp ảnh -->
+    <string name="take_picture">Take picture</string>
+</resources>
